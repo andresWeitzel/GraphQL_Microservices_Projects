@@ -1,2 +1,2 @@
-# Proyectos_Graphql_Microservicios
-Repositorio central para proyectos backend de tipo Graphql &amp; Microservicios 
+# Proyectos_GraphQL_Microservicios
+Repositorio central para proyectos backend de tipo GraphQL & Microservicios 
