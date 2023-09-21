@@ -34,7 +34,7 @@
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
   <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
