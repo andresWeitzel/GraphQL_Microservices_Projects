@@ -1,8 +1,15 @@
- <!------INICIO PROYECTOS GRAPHQL-MICROSERV.------>
- 
+<p align="right">
+    <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/translations/README.es.md" target="_blank">
+      <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+  </a> 
+   <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/README.md" target="_blank">
+      <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+  </a> 
+</p>
+
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservicios
+  # <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservicios
 
 </div>  
 
