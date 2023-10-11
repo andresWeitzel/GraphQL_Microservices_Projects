@@ -36,7 +36,7 @@
   </a>
  </div>
 
-  ### Used Stack
+  ### Technology Stack Used
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
