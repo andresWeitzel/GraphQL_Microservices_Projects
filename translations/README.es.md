@@ -26,13 +26,13 @@
   <img src="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL/blob/master/doc/graphql.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+ ### [[Repositorio]](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurC4DVGjeTuUOID0gjVxGDd3)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC4DVGjeTuUOID0gjVxGDd3" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
