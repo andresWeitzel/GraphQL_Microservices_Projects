@@ -21,8 +21,19 @@
 
 <br>
 
-Central repository for GraphQL & Microservices type backend projects. The following technologies are implemented..
+Central repository for GraphQL & Microservices type backend projects. The following technologies stack are implemented..
 
+ <br>
+
+ * Lenguages : Javascript, Typescript, GraphQL
+ * Frameworks : NestJS, Express
+ * Technologies : Nodejs
+ * ORM : TypeORM
+ * Databases : Mysql
+ * Libraries : dotenv, cors, swagger, swagger-ui, others.
+ * Tools : Apollo, vsc, git
+
+   
  <br>
  
  <br>
