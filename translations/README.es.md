@@ -23,13 +23,13 @@ Repositorio central para proyectos backend de tipo GraphQL y Microservicios. Se 
 
   <br>
 
-  * Lenguajes: Javascript, Typecript, GraphQL, otros
-  * Frameworks: NestJS, Express, otros
+  * Lenguajes : Javascript, Typecript, GraphQL, otros
+  * Frameworks : NestJS, Express, otros
   * Tecnologías : Nodejs, otras
-  * ORM: TypeORM, otros
-  * Bases de datos: Mysql, otras
-  * Bibliotecas: dotenv, cors, swagger, swagger-ui, otras.
-  * Herramientas: Apollo, vsc, git, otras
+  * ORM : TypeORM, otros
+  * Bases de datos : Mysql, otras
+  * Bibliotecas : dotenv, cors, swagger, swagger-ui, otras.
+  * Herramientas : Apollo, vsc, git, otras
 
    
   <br>
