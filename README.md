@@ -4,28 +4,58 @@
 
 <br>
 
-<p align="right">
+<div align="right">
     <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/README.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
-</p>
+</div>
 
-<div align="center">
-  
-  # <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservices
+<div align="center"> 
+    
+## GraphQL & Microservices
 
 </div>  
 
+<br>
+
+Central repository for GraphQL & Microservices type backend projects. The following technologies are implemented..
+
+ <br>
+ 
+ <br>
+
+ 
+<!------Start Index----->
+
+## Index 📜
+
+<details>
+ <summary> See </summary>
+
+ <br>
+ 
+* [Microservices for the management of Cisco devices](#microservices-for-the-management-of-cisco-devices-implemented-with-graphql-express-apollo-nestjs-typescript-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ GraphQL, Express, Typescript, Nestjs, others ]
+
+<br>
+
+</details>
+
+<!------Stop Index----->
+  
+ <br>
+ 
+ <br>
+ 
 
 
  <!------MICROSERVICIO CISCO GRAPHQL------>
  
 <div align="center">
   
-### Microservices for the management of Cisco devices implemented with GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others.
+### Microservices for the management of Cisco devices implemented with GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others. [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL" target="_blank">
   <img src="https://github.com/andresWeitzel/GraphQL_Microservices_Projects/blob/master/doc/assets/img/graphql_microservice.jpg" >
