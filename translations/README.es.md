@@ -1,26 +1,70 @@
+<div align = "center">
+<img src="https://github.com/andresWeitzel/GraphQL_Microservices_Projects/blob/master/doc/assets/img/graphql.png" >
+</div>
 
-<p align="right">
+<div align="right">
     <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/README.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
-</p>
+</div>
 
-<div align="center">
+<div align="centro">
+    
+## GraphQL y Microservicios
+
+</div>
+
+<br>
+
+Repositorio central para proyectos backend de tipo GraphQL y Microservicios. Se implementan las siguientes tecnologías:
+
+  <br>
+
+  * Lenguajes: Javascript, Typecript, GraphQL, otros
+  * Frameworks: NestJS, Express, otros
+  * Tecnologías : Nodejs, otras
+  * ORM: TypeORM, otros
+  * Bases de datos: Mysql, otras
+  * Bibliotecas: dotenv, cors, swagger, swagger-ui, otras.
+  * Herramientas: Apollo, vsc, git, otras
+
+   
+  <br>
+ 
+  <br>
+
   
-  # <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservicios
+<!------Start Index----->
 
-</div>  
+## Índice 📜
 
+<details>
+ <summary> Ver </summary>
+
+ <br>
+ 
+* [Microservicio para la gestión de dispositivos Cisco](#microservicio-para-la-gestión-de-dispositivos-cisco-implementado-con-graphql-express-apollo-nestjs-typescript-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ GraphQL, Express, Typescript, Nestjs, others ]
+
+<br>
+
+</details>
+
+<!------Stop Index----->
+  
+ <br>
+ 
+ <br>
+ 
 
 
  <!------MICROSERVICIO CISCO GRAPHQL------>
  
 <div align="center">
   
- ### Microservicio para la gestión de dispositivos cisco implementado con GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros.
+ ### Microservicio para la gestión de dispositivos cisco implementado con GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL/blob/master/doc/graphql.png" >
