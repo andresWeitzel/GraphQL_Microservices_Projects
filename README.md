@@ -1,3 +1,9 @@
+<div align = "center">
+<img src="https://github.com/andresWeitzel/GraphQL_Microservices_Projects/blob/master/doc/assets/img/graphql.png" >
+</div>
+
+<br>
+
 <p align="right">
     <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
@@ -22,7 +28,7 @@
 ### Microservices for the management of Cisco devices implemented with GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others.
 
 <a href="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL/blob/master/doc/graphql.png" >
+  <img src="https://github.com/andresWeitzel/GraphQL_Microservices_Projects/blob/master/doc/assets/img/graphql_microservice.jpg" >
   </a>
 
  ### [[Repository]](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurC4DVGjeTuUOID0gjVxGDd3)
