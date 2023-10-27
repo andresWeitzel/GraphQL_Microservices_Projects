@@ -29,7 +29,7 @@ Central repository for GraphQL & Microservices type backend projects. The follow
  * Frameworks : NestJS, Express, others
  * Technologies : Nodejs, others
  * ORM : TypeORM, others
- * Databases : Mysql, others
+ * Databases : MySQL, others
  * Libraries : dotenv, cors, swagger, swagger-ui, others.
  * Tools : Apollo, vsc, git, others
 
