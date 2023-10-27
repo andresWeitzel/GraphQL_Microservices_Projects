@@ -29,7 +29,7 @@ Repositorio central para proyectos backend de tipo GraphQL y Microservicios. Se 
   * ORM : TypeORM, otros
   * Bases de datos : MySQL, otras
   * Bibliotecas : dotenv, cors, swagger, swagger-ui, otras.
-  * Herramientas : Apollo, vsc, git, otras
+  * Herramientas : Apollo, vsc, postman, git, otras
 
    
   <br>
