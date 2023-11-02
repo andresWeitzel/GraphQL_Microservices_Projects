@@ -21,7 +21,7 @@
 
 <br>
 
-Central repository for GraphQL & Microservices type backend projects. The following technologies stack are implemented..
+Central repository for GraphQL & Microservices type backend projects.
 
  <br>
 
