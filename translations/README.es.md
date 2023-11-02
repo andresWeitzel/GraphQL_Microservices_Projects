@@ -19,7 +19,7 @@
 
 <br>
 
-Repositorio central para proyectos backend de tipo GraphQL y Microservicios. Se implementan las siguientes tecnologías:
+Repositorio central para proyectos backend de tipo GraphQL y Microservicios. 
 
   <br>
 
