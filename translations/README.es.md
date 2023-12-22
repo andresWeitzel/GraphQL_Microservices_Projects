@@ -13,7 +13,7 @@
 
 <div align="center">
     
-## GraphQL & Microservicios
+##  <img width="40" height="40" src="../doc/assets/gifs/graphql.gif" />  GraphQL & Microservices
 
 </div>
 
