@@ -49,7 +49,7 @@ Repositorio central para proyectos backend de tipo GraphQL y Microservicios.
 #### 🗂️ Projects
 * [Microservicio para la gestión de dispositivos CISCO](#microservicio-para-la-gestion-de-dispositivos-cisco-)
 
-  <div align="right">
+  <div align="left">
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
     <img width="22" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
     <img width="18" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
