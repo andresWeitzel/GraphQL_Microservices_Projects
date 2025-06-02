@@ -49,10 +49,9 @@ Central repository for GraphQL & Microservices type backend projects.
  <br>
 
 
-
-
 #### 🗂️ Projects
-* [Microservices for the management of Cisco devices](#microservices-for-the-management-of-cisco-devices-)  
+* [Microservices for the management of Cisco devices](#microservices-for-the-management-of-cisco-devices-)
+  
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
     <img width="22" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
